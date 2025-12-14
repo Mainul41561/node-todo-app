@@ -1,4 +1,4 @@
-# node-todo-cicd
+# node-todo-app
 
 Run these commands:
 
